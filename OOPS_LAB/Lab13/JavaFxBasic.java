@@ -16,11 +16,11 @@ public class Data extends Application {
 
         // Create a button
         Button btn = new Button();
-        btn.setText("Click me!");
+        btn.setText("Touch me!");
 
         // Set action on button click
         btn.setOnAction(e -> {
-            System.out.println("Button clicked!");
+            System.out.println("AHHHHHH!");
         });
 
         // Create a layout and add the button to it
